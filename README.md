@@ -19,6 +19,11 @@ This project includes an interactive photo gallery and two JavaScript coding cha
    git clone https://github.com/joel-kalema/take-home-challenge.git
    cd take-home-challenge
 
+2. open your browser, then check the console to see the result of the challenges.
+- Array Manipulation
+- String Transformation
+
+
 ## Author
 
 - GitHub: [@joel-kalema](https://github.com/joel-kalema)
