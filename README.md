@@ -17,7 +17,7 @@ This project includes an interactive photo gallery and two JavaScript coding cha
 1. Clone the repository:
    ```sh
    git clone https://github.com/joel-kalema/take-home-challenge.git
-   cd photo-gallery
+   cd take-home-challenge
 
 ## Author
 
@@ -29,7 +29,7 @@ This project includes an interactive photo gallery and two JavaScript coding cha
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/joel-kalema/Mobile-version-skeleton/issues).
+Feel free to check the [issues page](https://github.com/joel-kalema/take-home-challenge/issues).
 
 ## Show your support
 
